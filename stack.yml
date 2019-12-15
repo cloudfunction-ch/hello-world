@@ -6,5 +6,5 @@ functions:
   helloworld:
     lang: go
     handler: ./helloworld
-    image: cellerich/helloworld:latest
+    image: cloudfunction/helloworld:latest
 
